@@ -20,7 +20,7 @@
 
 ### Home - Cursos oferecidos
 
-![Captura de tela 2024-05-19 211044](https://github.com/ldematos/PI_grupo41/assets/155012602/d139dd07-2a69-48a0-a222-45ad10450696
+![Captura de tela 2024-05-19 211044](https://github.com/ldematos/PI_grupo41/assets/155012602/d139dd07-2a69-48a0-a222-45ad10450696)
 ![Captura de tela 2024-05-19 211106](https://github.com/ldematos/PI_grupo41/assets/155012602/aa3ab06f-d46d-40ab-95ff-f6b5d1addb53)
 
 ### Login
