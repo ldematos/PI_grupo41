@@ -6,7 +6,7 @@
 > - Erian Vieira Tome
 > - Lucas Jose Vicentini
 > - João Pedro dos santos
-> - [Integrante 5]
+> - Karine Pereira Pina
 
 ## Descrição/Objetivo
 
