@@ -23,8 +23,20 @@
 ![Captura de tela 2024-05-19 211044](https://github.com/ldematos/PI_grupo41/assets/155012602/d139dd07-2a69-48a0-a222-45ad10450696)
 ![Captura de tela 2024-05-19 211106](https://github.com/ldematos/PI_grupo41/assets/155012602/aa3ab06f-d46d-40ab-95ff-f6b5d1addb53)
 
-###
+## Design de Modas
 <img width="459" alt="PI - karine 1" src="https://github.com/ldematos/PI_grupo41/assets/84131403/64f85c17-71e0-4e33-9756-8363ad69e825">
+
+## Análise e Desenvolvimento de Sistemas
+<img width="459" alt="PI - pedro15ds" src="https://github.com/ldematos/PI_grupo41/blob/main/WhatsApp%20Image%202024-05-20%20at%2009.21.18%20(1).jpeg">
+
+## Gastronomia
+<img width="459" alt="PI - pedro15ds" src="https://github.com/ldematos/PI_grupo41/blob/main/WhatsApp%20Image%202024-05-20%20at%2009.21.18.jpeg">
+
+## Finanças
+<img width="459" alt="PI - pedro15ds" src="https://github.com/ldematos/PI_grupo41/blob/main/WhatsApp%20Image%202024-05-20%20at%2009.21.19.jpeg">
+
+
+
 
 
 
