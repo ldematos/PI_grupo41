@@ -42,13 +42,13 @@
 
 ### Login
 
-![login](https://github.com/ldematos/PI_grupo41/assets/155012602/21a50f7d-2984-42a6-8edc-a4e08185ddb0)
+![login](https://github.com/ldematos/PI_grupo41/blob/Erian/Login.png)
 
 ### Admistrador- opções internas de um usuário administrador
-![area adm](https://github.com/ldematos/PI_grupo41/assets/155012602/c0a006ab-47e2-4788-8a1a-a548b0331388)
+![area adm](https://github.com/ldematos/PI_grupo41/blob/Erian/Formulario.png)
 
 ### Administrador- Adicionar novo curso
-![adicionar novo curso](https://github.com/ldematos/PI_grupo41/assets/155012602/2e8e1e30-1581-456b-b62c-13565d2b6ee2)
+![adicionar novo curso](https://github.com/ldematos/PI_grupo41/blob/Erian/Criar%20curso.png)
 
 ### Administrador- Gerenciar turmas
 
@@ -56,7 +56,7 @@
 <img alt="PI - pedro15ds" src="https://github.com/Pedro15ds/PI/blob/main/WhatsApp%20Image%202024-05-20%20at%2011.44.34.jpeg">
 
 ### Sobre nós
-![WhatsApp Image 2024-05-19 at 16 47 23](https://github.com/ldematos/PI_grupo41/assets/155012602/82451e30-91f1-469c-be01-c563e6f174b4)
+![WhatsApp Image 2024-05-19 at 16 47 23](https://github.com/ldematos/PI_grupo41/blob/Erian/Quem%20somos.png)
 
 
 
