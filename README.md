@@ -23,6 +23,11 @@
 ![Captura de tela 2024-05-19 211044](https://github.com/ldematos/PI_grupo41/assets/155012602/d139dd07-2a69-48a0-a222-45ad10450696)
 ![Captura de tela 2024-05-19 211106](https://github.com/ldematos/PI_grupo41/assets/155012602/aa3ab06f-d46d-40ab-95ff-f6b5d1addb53)
 
+###
+<img width="459" alt="PI - karine 1" src="https://github.com/ldematos/PI_grupo41/assets/84131403/64f85c17-71e0-4e33-9756-8363ad69e825">
+
+
+
 ### Login
 
 ![login](https://github.com/ldematos/PI_grupo41/assets/155012602/21a50f7d-2984-42a6-8edc-a4e08185ddb0)
