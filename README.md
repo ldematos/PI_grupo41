@@ -50,6 +50,10 @@
 ### Administrador- Adicionar novo curso
 ![adicionar novo curso](https://github.com/ldematos/PI_grupo41/assets/155012602/2e8e1e30-1581-456b-b62c-13565d2b6ee2)
 
+### Administrador- Gerenciar turmas
+
+<img alt="PI - pedro15ds" src="https://github.com/Pedro15ds/PI/blob/main/WhatsApp%20Image%202024-05-20%20at%2012.17.01.jpeg">
+<img alt="PI - pedro15ds" src="https://github.com/Pedro15ds/PI/blob/main/WhatsApp%20Image%202024-05-20%20at%2011.44.34.jpeg">
 
 ### Sobre nós
 ![WhatsApp Image 2024-05-19 at 16 47 23](https://github.com/ldematos/PI_grupo41/assets/155012602/82451e30-91f1-469c-be01-c563e6f174b4)
