@@ -12,7 +12,7 @@
 
 <p>Sistema de gerenciamento escolar onde existe uma interface inicial mostrando os cursos fornecidos pela instituição, e uma aba de cada um deles direcionando para a tela de cursos, onde contém mais detalhes sobre a grade curricular, por exemplo.</p>
 
-<p>Inclui também uma área interna, podendo ser acessada por administradores que podem gerenciar os cursos, e valores.</p>
+<p>Inclui também uma área interna, podendo ser acessada por administradores que podem gerenciar os cursos, e valores, bem como formulários de cadastros.</p>
 
 <p>Ainda uma outra aba falando sobre as turmas, e por último, uma tela sobre a instituição.</p>
 
@@ -23,7 +23,7 @@
 ![Captura de tela 2024-05-19 211044](https://github.com/ldematos/PI_grupo41/assets/155012602/d139dd07-2a69-48a0-a222-45ad10450696)
 ![Captura de tela 2024-05-19 211106](https://github.com/ldematos/PI_grupo41/assets/155012602/aa3ab06f-d46d-40ab-95ff-f6b5d1addb53)
 
-## Design de Modas
+## Design de Moda
 <img width="459" alt="PI - karine 1" src="https://github.com/ldematos/PI_grupo41/assets/84131403/64f85c17-71e0-4e33-9756-8363ad69e825">
 
 ## Análise e Desenvolvimento de Sistemas
@@ -56,7 +56,7 @@
 ![Captura de tela 2024-05-20 210450](https://github.com/ldematos/PI_grupo41/assets/155012602/9392b840-7a22-4ea7-8938-8ea59338bc7d)
 
 
-### Admistrador- opções internas de um usuário administrador
+### Administrador- opções internas de um usuário administrador
 ![area adm](https://github.com/ldematos/PI_grupo41/blob/Erian/Formulario.png)
 
 ### Administrador- Adicionar novo curso
