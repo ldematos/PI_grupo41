@@ -36,13 +36,25 @@
 <img width="459" alt="PI - pedro15ds" src="https://github.com/ldematos/PI_grupo41/blob/main/WhatsApp%20Image%202024-05-20%20at%2009.21.19.jpeg">
 
 
-
-
-
-
 ### Login
 
 ![login](https://github.com/ldematos/PI_grupo41/blob/Erian/Login.png)
+
+### Formulário de Cadastro de Fornecedor
+![Captura de tela 2024-05-20 210357](https://github.com/ldematos/PI_grupo41/assets/155012602/a595121c-b442-44c3-8c39-d8d4e39696b2)
+
+### Formulário de Cadastro de Professor
+![Captura de tela 2024-05-20 210422](https://github.com/ldematos/PI_grupo41/assets/155012602/31349558-a882-4cbb-b29a-668f5df4aec9)
+
+### Formulário de Cadastro de aluno
+![Captura de tela 2024-05-20 210747](https://github.com/ldematos/PI_grupo41/assets/155012602/536e9fb8-2379-4937-83c1-44422430370f)
+
+### Formulário de Cadastro de Pessoa Física
+![Captura de tela 2024-05-20 210442](https://github.com/ldematos/PI_grupo41/assets/155012602/5cdf5ff3-8ae3-484f-b821-df4e1bdc67cd)
+
+### Formulário de Cadastro de Pessoa Jurídica
+![Captura de tela 2024-05-20 210450](https://github.com/ldematos/PI_grupo41/assets/155012602/9392b840-7a22-4ea7-8938-8ea59338bc7d)
+
 
 ### Admistrador- opções internas de um usuário administrador
 ![area adm](https://github.com/ldematos/PI_grupo41/blob/Erian/Formulario.png)
